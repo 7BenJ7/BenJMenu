@@ -6,6 +6,22 @@ It's a simple plugin to have nices main, settings and crédits menu wich support
 
 The menus has basic visual quality and audio volume settings, accessibilty options like coloblind parameters and rebinds system
 
+
+## Set up :
+
+- 1.1 Go to your project's root in folders explorer
+- 1.2 Create a folder "Plugins" if it don't exist
+- 1.3 Paste the version of this plugin in the "Plugins" folder
+- 1.4 Restart the engine
+
+- 2.1 Go to plugins
+- 2.2 Enable this plugin if it isn't the case
+- 2.3 Enable the "Common UI" plugin
+
+- 3.1 Go to Project Settings
+- 3.2 Set the Game Instance as BP_BenJMenu_GameInstance
+- 3.3 Go yo Engine - Enhanced Input -> Enhanced Input -> User Settings and enable "Enable User Settings"
+
 ## Screenshots from Croquettes Gang
 
 <figure>
@@ -34,21 +50,6 @@ The menus has basic visual quality and audio volume settings, accessibilty optio
 </figure>
 
 The background is not include in the plugin, only the UI
-
-## Set up :
-
-- 1.1 Go to your project's root in folders explorer
-- 1.2 Create a folder "Plugins" if it don't exist
-- 1.3 Paste the version of this plugin in the "Plugins" folder
-- 1.4 Restart the engine
-
-- 2.1 Go to plugins
-- 2.2 Enable this plugin if it isn't the case
-- 2.3 Enable the "Common UI" plugin
-
-- 3.1 Go to Project Settings
-- 3.2 Set the Game Instance as BP_BenJMenu_GameInstance
-- 3.3 Go yo Engine - Enhanced Input -> Enhanced Input -> User Settings and enable "Enable User Settings"
 
 
 Enjoy !
