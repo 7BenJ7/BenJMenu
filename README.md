@@ -2,7 +2,7 @@
 
 This plugin can be use for free by everyone. 
 
-It's a simple plugin to have nices main, settings and crédits menu wich support mouse and gamepad. The base of this plugin is the menus I made for the game Croquettes Gang.
+It's a simple plugin to have nices main, settings and crédits menu wich support mouse and gamepad. The base of this plugin is the menus I made for the game Croquettes Gang. It works with Unreal Engine 5.3 and above and it should work with previous version of Unreal Engine 5. 
 
 The menus has basic visual quality and audio volume settings, accessibilty options like coloblind parameters and rebinds system
 
@@ -52,4 +52,4 @@ The menus has basic visual quality and audio volume settings, accessibilty optio
 The background is not include in the plugin, only the UI
 
 
-Enjoy !
+**Enjoy !**
