@@ -6,7 +6,7 @@ It's a simple plugin to have nices main, settings and crédits menu wich support
 
 The menus has basic visual quality and audio volume settings, accessibilty options like coloblind parameters and rebinds system.
 
-All inputs icons (XBox, Playstation, Switch and Steamdeck) come from [JulioCacko's Itch page] (https://juliocacko.itch.io/free-super-input-prompt-pack-icons-unreal-unity-godot)
+All inputs icons (XBox, Playstation, Switch and Steamdeck) come from [JulioCacko's Itch page](https://juliocacko.itch.io/free-super-input-prompt-pack-icons-unreal-unity-godot)
 
 ## Set up :
 
