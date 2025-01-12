@@ -4,8 +4,9 @@ This plugin can be use for free by everyone.
 
 It's a simple plugin to have nices main, settings and crédits menu wich support mouse and gamepad. The base of this plugin is the menus I made for the game Croquettes Gang. It works with Unreal Engine 5.3 and above and it should work with previous version of Unreal Engine 5. 
 
-The menus has basic visual quality and audio volume settings, accessibilty options like coloblind parameters and rebinds system
+The menus has basic visual quality and audio volume settings, accessibilty options like coloblind parameters and rebinds system.
 
+All inputs icons (XBox, Playstation, Switch and Steamdeck) come from [JulioCacko's Itch page] (https://juliocacko.itch.io/free-super-input-prompt-pack-icons-unreal-unity-godot)
 
 ## Set up :
 
